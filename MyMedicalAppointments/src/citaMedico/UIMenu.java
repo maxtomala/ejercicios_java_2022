@@ -1,3 +1,4 @@
+package citaMedico;
 //package ui;
 
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+package citaMedico;
 
 public class Patient extends User {
 //Atributos
