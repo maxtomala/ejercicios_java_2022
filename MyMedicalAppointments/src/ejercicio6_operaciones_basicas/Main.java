@@ -1,4 +1,4 @@
-package ejercicios1;
+package ejercicio6_operaciones_basicas;
 
 public class Main {
 
@@ -8,3 +8,4 @@ public class Main {
 	}
 
 }
+ 
